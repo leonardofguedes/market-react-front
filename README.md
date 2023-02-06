@@ -1,11 +1,11 @@
 # 💫 Projeto Market (Readme feito com inteligência artificial)
 
-## Introdução
+## Introdução:
 
 Este é um projeto criado com o objetivo de desenvolver uma aplicação de compras online, utilizando as tecnologias React.js, Redux e Ant Design.
 
 
-## Instruções de instalação
+## Instruções de instalação:
 
 Faça o clone do repositório no seu computador:
 
@@ -44,7 +44,8 @@ react-scripts
 redux
 web-vitals
 
-# Scripts de execução
+# Scripts de execução:
+
 O projeto possui os seguintes scripts disponíveis:
 
 start: inicia o projeto em modo de desenvolvimento.
@@ -52,11 +53,13 @@ build: gera uma versão otimizada para produção.
 test: executa os testes da aplicação.
 eject: permite a configuração avançada da aplicação.
 
-# Configurações
+# Configurações:
+
 O projeto utiliza o eslint com as configurações padrão de uma aplicação React. Além disso, as seguintes versões de navegadores são suportadas:
 
 ## Produção: todas as versões acima de 0.2% que não estão obsoletas ou descontinuadas.
 ## Desenvolvimento: as últimas versões do Chrome, Firefox e Safari.
 
-# Conclusão
+# Conclusão:
+
 Este projeto é um exemplo de como é possível utilizar React.js, Redux e Ant Design para desenvolver uma aplicação de compras online. As dependências, scripts de execução e configurações descritos aqui permitem ao desenvolvedor entender o funcionamento da aplicação e personalizá-la de acordo com suas necessidades.
