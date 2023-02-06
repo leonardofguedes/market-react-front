@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+Projeto Market (Readme feito com inteligência artificial)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Introdução
 
-## Available Scripts
+Este é um projeto criado com o objetivo de desenvolver uma aplicação de compras online, utilizando as tecnologias React.js, Redux e Ant Design.
 
-In the project directory, you can run:
+Dependências
 
-### `npm start`
+Instruções de instalação
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Faça o clone do repositório no seu computador:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+git clone https://github.com/leonardofguedes/market-react-front.git
 
-### `npm test`
+Entre na pasta do projeto:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+cd market
 
-### `npm run build`
+Instale as dependências:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Inicie a aplicação:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+npm run start
 
-### `npm run eject`
+Após seguir esses passos, a aplicação estará disponível para ser utilizada em seu navegador, normalmente em http://localhost:3000.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+As seguintes dependências são utilizadas no projeto:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+@reduxjs/toolkit
+@testing-library/jest-dom
+@testing-library/react
+@testing-library/user-event
+antd
+axios
+react
+react-dom
+react-redux
+react-router
+react-router-dom
+react-scripts
+redux
+web-vitals
+Scripts de execução
+O projeto possui os seguintes scripts disponíveis:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+start: inicia o projeto em modo de desenvolvimento.
+build: gera uma versão otimizada para produção.
+test: executa os testes da aplicação.
+eject: permite a configuração avançada da aplicação.
+Configurações
+O projeto utiliza o eslint com as configurações padrão de uma aplicação React. Além disso, as seguintes versões de navegadores são suportadas:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Produção: todas as versões acima de 0.2% que não estão obsoletas ou descontinuadas.
+Desenvolvimento: as últimas versões do Chrome, Firefox e Safari.
+Conclusão
+Este projeto é um exemplo de como é possível utilizar React.js, Redux e Ant Design para desenvolver uma aplicação de compras online. As dependências, scripts de execução e configurações descritos aqui permitem ao desenvolvedor entender o funcionamento da aplicação e personalizá-la de acordo com suas necessidades.
