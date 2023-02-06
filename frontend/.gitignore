@@ -1,0 +1,114 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Media files
+media/
+
+# Static files
+static/
+
+# Environment variables
+.env
+.env.*
+
+# Secrets file
+*.secrets
+
+# Pipenv
+Pipfile
+Pipfile.lock
+
+# Sphinx documentation
+docs/_build/
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Django migrations
+*.pyc
+__pycache__/
+migrations/
+
+# .gitignore
+
+# dependencies
+node_modules/
+
+# testing
+coverage/
+
+# production
+build/
+
+# misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE configurations
+.idea/
+.vscode/
+
+# .env files
+.env*
+
+# cache files
+.npm
+.yarn
+
+# lock files
+yarn.lock
+package-lock.json
+
+# user-specific files
+.npmrc
+.yarnrc
