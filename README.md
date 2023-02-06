@@ -1,12 +1,12 @@
-Projeto Market (Readme feito com inteligência artificial)
+# 💫 Projeto Market (Readme feito com inteligência artificial)
 
-Introdução
+## Introdução
 
 Este é um projeto criado com o objetivo de desenvolver uma aplicação de compras online, utilizando as tecnologias React.js, Redux e Ant Design.
 
-Dependências
+# Dependências
 
-Instruções de instalação
+## Instruções de instalação
 
 Faça o clone do repositório no seu computador:
 
